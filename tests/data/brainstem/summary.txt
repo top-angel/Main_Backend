@@ -1,0 +1,2 @@
+   Date    StartTime StopTime Duration MeanHR(bpm) N_RRs AVNN(ms) SDNN(ms) RMSSD(ms) NN50  pNN50 VLFpower(ms^2)  LFpower(ms^2) HFpower(ms^2)  LF/HF
+2022-04-22  22:15:46 06:32:59 08:17:13    69.54    34120   861.52  61.62    40.48    6356  18.63   1439.954         286.028       175.988    1.62527

@@ -1,0 +1,16 @@
+0 672383743.174  74
+1 672383759.195  76 1303
+29792 672413578.248  72  799
+29793 672413579.568  71  903
+
+ NoRRs=316
+ nEmpty=0
+ nRRs=34224
+ nValidRRs=34220
+ nBadRRs=4
+ nDrop-outs=0
+ dT by timestamps=29829.894
+ Sum of RR intervals=29473.096
+ Mean HBR=69.537
+ Mean HBR by 1/RR=70.040
+ Mean HBR by 1/OverallRRs=69.672
